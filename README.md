@@ -4,7 +4,10 @@ This repository contains the data produced in the study of eccentric planet disc
 
 The data is divided into the circular and the eccentric result directories. Each of the files contains the results across a variety of eccentricity and disc parameters.
 
-- $p$
+- $p$ = radial surface density exponent
+- $T$ = radial temperature exponent
+- $h$ = disc aspect ratio at the planetary location
+- $e$ = eccentricity of the planetary orbit
 
 - circular/ 
   - parameters.out: stores the eccentricity values e and disc parameters for q, p and h
