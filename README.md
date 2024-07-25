@@ -1,10 +1,10 @@
 # README.md
 
-This repository contains the data produced in the study of eccentric planet disc interactions. The production of this data is detailed fully the paper. The data is divided into the circular and eccentric result directories. Each of the files contains the results across a variety of eccentricity and disc parameters.
+This repository contains the data produced in the study of eccentric planet disc interactions. The underlying theory and methodology is detailed fully the paper. The data is divided into the circular and eccentric result directories. Each of the files contains the results across a variety of eccentricity and disc parameters.
 
-- $p$ = radial surface density exponent
-- $T$ = radial temperature exponent
-- $h$ = disc aspect ratio at the planetary location
+- $p$ = radial surface density exponents
+- $T$ = radial temperature exponents
+- $h$ = disc aspect ratios at the planetary semi-major axis
 - $e$ = eccentricity of the planetary orbit
 
 ## `circular/ `
